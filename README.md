@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Mads's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadsAkselsen)](https://github.com/MadsAkselsen/github-readme-stats)
+
 <!--
 **MadsAkselsen/MadsAkselsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
