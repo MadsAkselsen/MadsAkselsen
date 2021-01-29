@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-[![Mads's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadsAkselsen)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MadsAkselsen)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MadsAkselsen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadsAkselsen&include_all_commits" /> 
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadsAkselsen" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MadsAkselsen" />
 </a>
 
 <!--
